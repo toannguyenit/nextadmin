@@ -6,10 +6,5 @@
 }
 .content {
     flex: 4;
-}
-.nav {
-    display: block;
-}
-.sidebar {
-  display: flex;
+    padding: 20px;
 }
